@@ -1,0 +1,6 @@
+framework module Pods_PlayingWithQuickUITests {
+  umbrella header "Pods-PlayingWithQuickUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

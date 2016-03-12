@@ -1,0 +1,15 @@
+PODS:
+  - Nimble (3.0.0)
+  - Quick (0.9.1)
+
+DEPENDENCIES:
+  - Nimble (= 3.0.0)
+  - Quick (~> 0.9.0)
+
+SPEC CHECKSUMS:
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Quick: a5221fc21788b6aeda934805e68b061839bc3165
+
+PODFILE CHECKSUM: 5761d8f2e8f889ee70ef5d0a0dc199dccd9d4ffc
+
+COCOAPODS: 1.0.0.beta.1
