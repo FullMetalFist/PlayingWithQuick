@@ -16,6 +16,7 @@
 		7C6978B71C8DD240008FCF06 /* PlayingWithQuickUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6978B61C8DD240008FCF06 /* PlayingWithQuickUITests.swift */; };
 		7C6978C81C8DDA6C008FCF06 /* ViewControllerSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6978C61C8DDA6C008FCF06 /* ViewControllerSpec.swift */; };
 		7CBC8FC41C93806E005C0083 /* ViewControllerSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6978C61C8DDA6C008FCF06 /* ViewControllerSpec.swift */; };
+		7CBC8FC51C948AA6005C0083 /* ViewControllerSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6978C61C8DDA6C008FCF06 /* ViewControllerSpec.swift */; };
 		99BBBD6976A87CA700AAAB31 /* Pods_PlayingWithQuickTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C21A45CFF6BF09FF677D454 /* Pods_PlayingWithQuickTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -371,6 +372,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CBC8FC51C948AA6005C0083 /* ViewControllerSpec.swift in Sources */,
 				7C6978991C8DD240008FCF06 /* ViewController.swift in Sources */,
 				7C6978971C8DD240008FCF06 /* AppDelegate.swift in Sources */,
 			);

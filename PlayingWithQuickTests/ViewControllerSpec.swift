@@ -7,10 +7,18 @@
 //
 
 import XCTest
+import UIKit
 import Quick
 import Nimble
 
 class ViewControllerSpec: QuickSpec {
+    
+    override func spec() {
+        var viewController: ViewController!
+        describe("loading first view controller") { () -> Void in
+            it(<#T##description: String##String#>, closure: <#T##() -> ()#>)
+        }
+    }
 
     override func setUp() {
         super.setUp()
